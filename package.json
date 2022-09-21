@@ -1,0 +1,23 @@
+{
+  "name": "contactbook-backend",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Thach2001/B1910449_VoVanThach_CT449-04.git"
+  },
+  "author": "B1910449_VoVanThach",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Thach2001/B1910449_VoVanThach_CT449-04/issues"
+  },
+  "homepage": "https://github.com/Thach2001/B1910449_VoVanThach_CT449-04#readme",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.18.1"
+  }
+}
